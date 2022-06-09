@@ -1,5 +1,4 @@
-#include <bits/stdc++.h>
-using namespace std;
+#include <iostream>
 
 int highest_frequency(int array[], const int& arr_size) {
     int max = array[0], index = 0;

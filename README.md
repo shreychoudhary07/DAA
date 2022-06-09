@@ -1,2 +1,5 @@
 # DAA
-This repository is made to submit the assignments given to me in the subject Design and Analyis of Algorithms.
+
+### Design and Analysis of Algorithms
+
+#### PCS - 409 (LAB WORK)
